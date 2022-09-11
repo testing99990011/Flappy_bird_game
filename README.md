@@ -26,10 +26,10 @@ The main loop is within the file __Flappy_Main.py__. Background logic to change 
 - __Score Screen__: Screen for where the user can see their 3 most recent games, average statistics, and global statistics. The next pages (2-4) allow the user to see their achievements and progress within them. Progress bars are below the achievements and descriptions are to the right. 
 
 ## Images Within Games ##
-![Start Screen](/README%20Images/StartScreen.PNG)
-![Start Screen](/README%20Images/TutorialScreen.PNG)
-![Start Screen](/README%20Images/GameScreen.PNG)
-![Start Screen](/README%20Images/GameoverScreen.PNG)
-![Start Screen](/README%20Images/SettingsScreen.PNG)
-![Start Screen](/README%20Images/ScoreScreen.PNG)
-![Start Screen](/README%20Images/AchievementScreen.PNG)
+![Screenshot](/README%20Images/StartScreen.PNG)
+![Screenshot](/README%20Images/TutorialScreen.PNG)
+![Screenshot](/README%20Images/GameScreen.PNG)
+![Screenshot](/README%20Images/GameoverScreen.PNG)
+![Screenshot](/README%20Images/SettingsScreen.PNG)
+![Screenshot](/README%20Images/ScoreScreen.PNG)
+![Screenshot](/README%20Images/AchievementScreen.PNG)
